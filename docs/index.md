@@ -12,7 +12,15 @@ Bienvenue sur le projet **Co'b (Connected Basket)**, une innovation révolutionn
 
 ## À propos du Projet
 
-Décrivez ici en quelques lignes l'objectif et l'aperçu général de votre projet. Quel est son but ? À qui est-il destiné ? Quels problèmes cherche-t-il à résoudre ?
+Co'b est le fruit du travail de **Louis, Adrian et Gianni**, deux ingénieurs en informatique passionnés de basketball. Ce projet a pour objectif de répondre à un besoin non satisfait : fournir des outils d'analyse de performance abordables et personnalisés pour les joueurs de tous niveaux.
+
+En exploitant la technologie de l'intelligence artificielle, Co'b propose un dispositif connecté qui se fixe sur n'importe quel panier de basket. Ce dispositif analyse les tirs et offre :
+
+- Des **statistiques personnalisées**
+- Des **conseils d'amélioration**
+- Des **défis ludiques**
+
+Ces fonctionnalités sont accessibles via une application mobile/web facile à utiliser.
 
 ## Poster
 
