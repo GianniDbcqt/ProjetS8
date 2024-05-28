@@ -51,6 +51,8 @@ Dans le cadre du développement de Co'b, plusieurs choix techniques ont été r�
    - **Avantages :** Précision, fiabilité, facilité d'intégration avec le Raspberry Pi.
 
 ### Diagrammes du projet Co'b
+![Diagramme de bloc BDD](images/diagramme.png)
+![Diagramme fonctionnel](images/Diagramme_sans_nom.drawio_1.png)
 
 
 
