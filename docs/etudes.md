@@ -42,9 +42,26 @@ Dans le cadre du développement de Co'b, plusieurs choix techniques ont été r�
 
 ### Choix Matériels
 
-7. **Raspberry Pi 3 :**
-   - **Rationale :** Nous avons choisi le Raspberry Pi 3 plutôt qu'une carte Pycom pour notre projet. Le Raspberry Pi 3 offre une puissance de calcul suffisante, une large communauté de support, et une compatibilité avec divers modules et capteurs.
-   - **Avantages :** Coût abordable, flexibilité, large support communautaire, facilité d'intégration.
+ Nous avons choisi le Raspberry Pi 3 pour notre projet en raison de ses nombreux avantages par rapport à une carte Pycom. Voici un comparatif détaillé des deux options :
+
+   - **Raspberry Pi 3 :**
+     - **Processeur :** Quad-core 1.2 GHz Broadcom BCM2837 64-bit CPU
+     - **Mémoire :** 1 GB RAM
+     - **Connectivité :** Wi-Fi 802.11n, Bluetooth 4.1, Ethernet
+     - **Ports :** 4 ports USB, 1 port HDMI, GPIO
+     - **Support Communautaire :** Très large communauté avec de nombreuses ressources disponibles
+     - **Avantages :** Puissance de calcul, compatibilité avec divers modules et capteurs, coût abordable, large support communautaire.
+
+   - **Pycom :**
+     - **Processeur :** Dual-core 32-bit LX6 microprocessor (Espressif ESP32)
+     - **Mémoire :** 520 KB RAM, 4 MB Flash
+     - **Connectivité :** Wi-Fi, Bluetooth, Sigfox, LoRa, LTE (selon le modèle)
+     - **Ports :** Moins de ports que le Raspberry Pi, spécifiquement orienté IoT
+     - **Support Communautaire :** Communauté active mais plus restreinte que celle du Raspberry Pi
+     - **Avantages :** Excellente pour les projets IoT nécessitant des connexions spécifiques comme Sigfox ou LoRa, faible consommation d'énergie.
+
+   - **Décision :** Nous avons opté pour le Raspberry Pi 3 en raison de sa polyvalence, de sa puissance de calcul supérieure, de sa compatibilité avec une large gamme de modules et capteurs, et de son support communautaire étendu. Bien que la carte Pycom soit excellente pour des projets IoT spécifiques, le Raspberry Pi 3 offre une solution plus complète et flexible pour les besoins de notre projet, sachant que nous n'utilisons pas de réseau LoRa, Sigfox ou autre.
+
 
 8. **Capteur de Distance :**
    - **Rationale :** Pour détecter le passage du ballon dans l'arceau, nous utilisons un capteur de distance. Ce capteur permet de mesurer avec précision la distance entre le ballon et le panier, fournissant des données essentielles pour l'analyse des tirs.
