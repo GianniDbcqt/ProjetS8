@@ -50,6 +50,10 @@ Dans le cadre du développement de Co'b, plusieurs choix techniques ont été r�
    - **Rationale :** Pour détecter le passage du ballon dans l'arceau, nous utilisons un capteur de distance. Ce capteur permet de mesurer avec précision la distance entre le ballon et le panier, fournissant des données essentielles pour l'analyse des tirs.
    - **Avantages :** Précision, fiabilité, facilité d'intégration avec le Raspberry Pi.
 
+### Diagrammes du projet Co'b
+
+
+
 ### Conclusion
 
 Les choix techniques réalisés pour le projet Co'b visent à assurer une intégration fluide et une performance optimale du système. En combinant des technologies avancées de gestion des contextes, d'intégration des capteurs, d'analyse temporelle et de traitement des flux de données, nous avons construit une solution robuste et évolutive pour l'entraînement au basketball. L'utilisation du Raspberry Pi 3 et des capteurs de distance garantit une solution matérielle efficace et abordable, adaptée aux besoins de notre projet.
