@@ -22,6 +22,8 @@ joueurs s'entraînent et s'améliorent.
 ## Bienvenue sur Notre Projet
 
 Ce repository est le cœur de notre projet. Ici, vous trouverez toutes les ressources nécessaires pour comprendre, utiliser et contribuer à notre projet.
+![diagramme de bloc](https://github.com/GianniDbcqt/ProjetS8/blob/main/docs/images/diagramme%20de%20bloc.png)
+
 
 ### Contenu du Repository
 
