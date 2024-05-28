@@ -31,10 +31,12 @@ Avec un marché des objets connectés dans le sport en pleine croissance, Co'b s
 
 Voici quelques diagrammes pour illustrer le fonctionnement de Co'b :
 
-![Diagramme de fonctionnement](https://github.com/GianniDbcqt/ProjetS8/blob/main/docs/images/Diagramme_sans_nom.drawio_1.png)
+### Diagramme de Fonctionnement
+![Diagramme de fonctionnement](https://raw.githubusercontent.com/GianniDbcqt/ProjetS8/main/docs/images/Diagramme_sans_nom.drawio_1.png)
 *Diagramme de fonctionnement de Co'b*
 
-![Diagramme de bloc](https://github.com/GianniDbcqt/ProjetS8/blob/main/docs/images/diagramme%20de%20bloc.png)
+### Diagramme de Bloc
+![Diagramme de bloc](https://raw.githubusercontent.com/GianniDbcqt/ProjetS8/main/docs/images/diagramme%20de%20bloc.png)
 *Diagramme de bloc de Co'b*
 
 ## Contenu du Repository
