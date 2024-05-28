@@ -50,8 +50,13 @@ Dans le cadre du développement de Co'b, plusieurs choix techniques ont été r�
    - **Rationale :** Pour détecter le passage du ballon dans l'arceau, nous utilisons un capteur de distance. Ce capteur permet de mesurer avec précision la distance entre le ballon et le panier, fournissant des données essentielles pour l'analyse des tirs.
    - **Avantages :** Précision, fiabilité, facilité d'intégration avec le Raspberry Pi.
 
-### Diagrammes du projet Co'b
-![Diagramme de bloc BDD](images/diagramme.png)
+## Diagrammes Illustratifs
+Voici quelques diagrammes pour illustrer le fonctionnement de Co'b :
+
+### Diagramme de Fonctionnement
+![Diagramme de bloc BDD](images/diagramme%20de%20bloc.png.png)
+
+### Diagramme de Bloc
 ![Diagramme fonctionnel](images/Diagramme_sans_nom.drawio_1.png)
 
 
