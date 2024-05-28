@@ -22,22 +22,7 @@ En exploitant la technologie de l'intelligence artificielle, Co'b propose un dis
 
 Ces fonctionnalités sont accessibles via une application mobile/web facile à utiliser.
 
-## Poster
-
-Ici vous publierez le poster de votre projet.
-
-![Poster projet](images/poster.jpg)
-
-## Vidéo
-
-Ici vous publierez la vidéo de votre projet. 
-- Moins de 1min30
-- Présentation du projet 
-- Des explication du fonctionnement du projet
-- Des vues du projet / Prototype / Application etc... 
-- Des plans du fonctionnement (même basique ou des éléments séparés)
-- Une conclusion
-Si en stockage local : >50mo
+## Vidéo Présentation
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Y20hAHf7zNk?si=UrO35O-r6UlEBWZC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
