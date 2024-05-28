@@ -8,7 +8,7 @@ title: Accueil
 
 Bienvenue sur le projet **Co'b (Connected Basket)**, une innovation révolutionnaire conçue pour transformer l'entraînement au basketball.
 
-![Illustration vectorielle colorée avec un fond blanc, montrant un atelier équipé pour un projet de conception mécanique, électronique et informatique](images/illustration.png)
+![Illustration vectorielle colorée avec un fond blanc, montrant un atelier équipé pour un projet de conception mécanique, électronique et informatique](images/co'b.png)
 
 ## À propos du Projet
 
