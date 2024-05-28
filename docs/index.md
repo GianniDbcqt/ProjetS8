@@ -39,6 +39,6 @@ Ici vous publierez la vidéo de votre projet.
 - Une conclusion
 Si en stockage local : >50mo
 
-<video src="images/Présentation_de_Co'b.mp4" controls title="Title"  style="width: 100%;"></video>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Y20hAHf7zNk?si=UrO35O-r6UlEBWZC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
