@@ -4,7 +4,7 @@ Bienvenue sur le projet **Co'b (Connected Basket)**, une innovation révolutionn
 
 ## À Propos de Co'b
 
-Co'b est le fruit du travail de **Louis et Adrian**, deux ingénieurs en informatique passionnés de basketball. Ce projet a pour objectif de répondre à un besoin non satisfait : fournir des outils d'analyse de performance abordables et personnalisés pour les joueurs de tous niveaux.
+Co'b est le fruit du travail de **Louis, Adrian et Gianni**, deux ingénieurs en informatique passionnés de basketball. Ce projet a pour objectif de répondre à un besoin non satisfait : fournir des outils d'analyse de performance abordables et personnalisés pour les joueurs de tous niveaux.
 
 En exploitant la technologie de l'intelligence artificielle, Co'b propose un dispositif connecté qui se fixe sur n'importe quel panier de basket. Ce dispositif analyse les tirs et offre :
 
@@ -56,4 +56,4 @@ Si vous avez des questions ou des suggestions, n'hésitez pas à nous contacter.
 
 ---
 
-&copy; 2024 Co'b Project - Créé par Louis et Adrian
+&copy; 2024 Co'b Project - Créé par Louis, Adrian et Gianni
