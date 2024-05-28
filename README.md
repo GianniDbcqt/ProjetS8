@@ -1,6 +1,23 @@
-# Template-project
+# Co'b-project
 
-Template pour la création d'un repo type projet pour le MakerSpace. Doc gérée via le thème [Just-The-Docs](https://just-the-docs.com) en vanilla.
+Co'B (Connected Basket) est une innovation révolutionnaire conçue pour transformer
+l'entraînement au basketball. Créé par Louis et Adrian, deux ingénieurs en informatique
+passionnés de basketball, ce projet vise à répondre à un besoin non satisfait : l'accès à des
+outils d'analyse de performance abordables et personnalisés pour les joueurs de tous
+niveaux.
+En exploitant la technologie de l'intelligence artificielle, Co'B propose un dispositif
+connecté qui se fixe sur n'importe quel panier pour analyser les tirs, offrant ainsi des
+statistiques personnalisées, des conseils d'amélioration et des défis ludiques à travers une
+application mobile/web facile à utiliser.
+Ce projet se distingue par son approche double : il offre un divertissement pour les
+amateurs tout en fournissant une analyse approfondie pour les joueurs sérieux, les clubs
+et les associations.
+Avec un marché des objets connectés dans le sport en pleine croissance, Co'B se
+positionne comme une solution unique, centrée sur le joueur, dans un secteur
+actuellement dominé par des équipements haut de gamme et des applications génériques.
+Porté par une équipe de fondateurs ayant une solide expérience en développement
+logiciel et une passion pour le basketball, Co'B est prêt à révolutionner la manière dont les
+joueurs s'entraînent et s'améliorent.
 
 ## Bienvenue sur Notre Projet
 
