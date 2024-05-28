@@ -1,40 +1,50 @@
-# Co'b-project
+# Co'b Project
 
-Co'B (Connected Basket) est une innovation révolutionnaire conçue pour transformer
-l'entraînement au basketball. Créé par Louis et Adrian, deux ingénieurs en informatique
-passionnés de basketball, ce projet vise à répondre à un besoin non satisfait : l'accès à des
-outils d'analyse de performance abordables et personnalisés pour les joueurs de tous
-niveaux.
-En exploitant la technologie de l'intelligence artificielle, Co'B propose un dispositif
-connecté qui se fixe sur n'importe quel panier pour analyser les tirs, offrant ainsi des
-statistiques personnalisées, des conseils d'amélioration et des défis ludiques à travers une
-application mobile/web facile à utiliser.
-Ce projet se distingue par son approche double : il offre un divertissement pour les
-amateurs tout en fournissant une analyse approfondie pour les joueurs sérieux, les clubs
-et les associations.
-Avec un marché des objets connectés dans le sport en pleine croissance, Co'B se
-positionne comme une solution unique, centrée sur le joueur, dans un secteur
-actuellement dominé par des équipements haut de gamme et des applications génériques.
-Porté par une équipe de fondateurs ayant une solide expérience en développement
-logiciel et une passion pour le basketball, Co'B est prêt à révolutionner la manière dont les
-joueurs s'entraînent et s'améliorent.
+Bienvenue sur le projet **Co'b (Connected Basket)**, une innovation révolutionnaire conçue pour transformer l'entraînement au basketball.
 
-## Bienvenue sur Notre Projet
+## À Propos de Co'b
 
-Ce repository est le cœur de notre projet. Ici, vous trouverez toutes les ressources nécessaires pour comprendre, utiliser et contribuer à notre projet.
-![diagramme de fonctionnement](https://github.com/GianniDbcqt/ProjetS8/blob/main/docs/images/Diagramme_sans_nom.drawio_1.png)
-![diagramme de bloc](https://github.com/GianniDbcqt/ProjetS8/blob/main/docs/images/diagramme%20de%20bloc.png)
+Co'b est le fruit du travail de **Louis et Adrian**, deux ingénieurs en informatique passionnés de basketball. Ce projet a pour objectif de répondre à un besoin non satisfait : fournir des outils d'analyse de performance abordables et personnalisés pour les joueurs de tous niveaux.
 
+En exploitant la technologie de l'intelligence artificielle, Co'b propose un dispositif connecté qui se fixe sur n'importe quel panier de basket. Ce dispositif analyse les tirs et offre :
 
-### Contenu du Repository
+- Des **statistiques personnalisées**
+- Des **conseils d'amélioration**
+- Des **défis ludiques**
 
-- **Documentation :** Toutes les documentations techniques et guides d'utilisation sont disponibles dans le dossier `docs`. Voir le site de doc associé. 
-- **project :** Toutes les sources de notre projet.
+Ces fonctionnalités sont accessibles via une application mobile/web facile à utiliser.
 
-### Comment Utiliser ce Repository ?
+## Fonctionnalités de Co'b
 
-- Pour commencer, consultez la documentation dans le dossier `docs`.
-- Si vous souhaitez contribuer au projet, veuillez lire nos directives de contribution.
+### Divertissement et Analyse
+- **Pour les amateurs :** Offrir un divertissement à travers des défis et des jeux.
+- **Pour les joueurs sérieux :** Fournir une analyse approfondie pour améliorer les performances.
+
+### Technologie Avancée
+- **Intelligence artificielle :** Analyse en temps réel des tirs.
+- **Application mobile/web :** Accès facile aux statistiques et aux conseils.
+
+### Positionnement Unique
+Avec un marché des objets connectés dans le sport en pleine croissance, Co'b se positionne comme une solution unique centrée sur le joueur, dans un secteur actuellement dominé par des équipements haut de gamme et des applications génériques.
+
+## Diagrammes Illustratifs
+
+Voici quelques diagrammes pour illustrer le fonctionnement de Co'b :
+
+![Diagramme de fonctionnement](https://github.com/GianniDbcqt/ProjetS8/blob/main/docs/images/Diagramme_sans_nom.drawio_1.png)
+*Diagramme de fonctionnement de Co'b*
+
+![Diagramme de bloc](https://github.com/GianniDbcqt/ProjetS8/blob/main/docs/images/diagramme%20de%20bloc.png)
+*Diagramme de bloc de Co'b*
+
+## Contenu du Repository
+
+- **Documentation :** Toutes les documentations techniques et guides d'utilisation sont disponibles dans le dossier `docs`. Voir le site de documentation associé.
+- **Source du projet :** Toutes les sources de notre projet sont disponibles dans le dossier `project`.
+
+## Utilisation du Repository
+
+Pour commencer, consultez la documentation dans le dossier `docs`. Si vous souhaitez contribuer au projet, veuillez lire nos directives de contribution.
 
 ## Contribution
 
@@ -43,3 +53,7 @@ Nous accueillons et apprécions toute contribution. Si vous souhaitez contribuer
 ## Contact
 
 Si vous avez des questions ou des suggestions, n'hésitez pas à nous contacter.
+
+---
+
+&copy; 2024 Co'b Project - Créé par Louis et Adrian
