@@ -54,10 +54,10 @@ Dans le cadre du développement de Co'b, plusieurs choix techniques ont été r�
 Voici quelques diagrammes pour illustrer le fonctionnement de Co'b :
 
 ### Diagramme de Fonctionnement
-![Diagramme de bloc BDD](images/diagramme_de_bloc.png)
+![Diagramme de bloc BDD](images/Diagramme_sans_nom.drawio_1.png)
 
 ### Diagramme de Bloc
-![Diagramme fonctionnel](images/Diagramme_sans_nom.drawio_1.png)
+![Diagramme fonctionnel](images/diagramme_de_bloc.png)
 
 
 
