@@ -4,11 +4,11 @@ nav_order: 4
 title: Études et choix techniques
 ---
 
-## Études et Choix Techniques
+## Études et choix techniques
 
-Dans le cadre du développement de Co'b, plusieurs choix techniques ont été réalisés afin de garantir une intégration optimale des différentes technologies et une performance maximale du dispositif. Voici un aperçu des principales décisions technologiques :
+Dans le cadre du développement de Co'B, plusieurs choix techniques ont été réalisés afin de garantir une intégration optimale des différentes technologies et une performance maximale du dispositif. Voici un aperçu des principales décisions technologiques :
 
-### Infrastructure et Gestion des Contextes
+### Infrastructure et gestion des contextes
 
 **Docker et Portainer :**
    - Pour faciliter la gestion des conteneurs et déployer facilement nos services, nous avons opté pour Docker, accompagné de Portainer pour une interface de gestion intuitive. Cette solution nous permet de maintenir une architecture modulaire et scalable.
@@ -18,13 +18,13 @@ Dans le cadre du développement de Co'b, plusieurs choix techniques ont été r�
    - Nous utilisons Orion Context Broker pour une gestion avancée des contextes en temps réel. Il nous permet de collecter, gérer et fournir des données contextuelles à partir de divers capteurs et dispositifs connectés.
    - **Avantages :** Flexibilité, temps réel, interopérabilité avec d'autres composants FIWARE.
 
-### Intégration des Capteurs
+### Intégration des capteurs
 
 **IoT Agents :**
    - Pour une meilleure intégration des différentes technologies de capteurs, nous avons intégré des IoT Agents. Ceux-ci facilitent la communication entre les capteurs et Orion Context Broker en traduisant les protocoles spécifiques des capteurs en formats compatibles avec FIWARE.
    - **Avantages :** Compatibilité accrue, facilité d'intégration, gestion unifiée des capteurs.
 
-### Analyse Temporelle et Traitement de Données
+### Analyse temporelle et traitement de données
 
 **QuantumLeap et CrateDB :**
    - Pour effectuer une analyse temporelle approfondie des données, nous avons choisi QuantumLeap en combinaison avec CrateDB. QuantumLeap permet de transformer les données contextuelles en séries temporelles, tandis que CrateDB offre une base de données adaptée au stockage et à l'analyse des séries temporelles.
@@ -67,17 +67,17 @@ Dans le cadre du développement de Co'b, plusieurs choix techniques ont été r�
    -  Pour détecter le passage du ballon dans l'arceau, nous utilisons un capteur de distance. Ce capteur permet de mesurer avec précision la distance entre le ballon et le panier, fournissant des données essentielles pour l'analyse des tirs.
    - **Avantages :** Précision, fiabilité, facilité d'intégration avec le Raspberry Pi.
 
-## Diagrammes Illustratifs
-Voici quelques diagrammes pour illustrer le fonctionnement de Co'b :
+## Diagrammes illustratifs
+Voici quelques diagrammes pour illustrer le fonctionnement de Co'B :
 
-### Diagramme de Fonctionnement
+### Diagramme de fonctionnement
 ![Diagramme de bloc BDD](images/Diagramme_sans_nom.drawio_1.png)
 
-### Diagramme de Bloc
+### Diagramme de bloc
 ![Diagramme fonctionnel](images/diagramme_de_bloc.png)
 
 
 
 ### Conclusion
 
-Les choix techniques réalisés pour le projet Co'b visent à assurer une intégration fluide et une performance optimale du système. En combinant des technologies avancées de gestion des contextes, d'intégration des capteurs, d'analyse temporelle et de traitement des flux de données, nous avons construit une solution robuste et évolutive pour l'entraînement au basketball. L'utilisation du Raspberry Pi 3 et des capteurs de distance garantit une solution matérielle efficace et abordable, adaptée aux besoins de notre projet.
+Les choix techniques réalisés pour le projet Co'B visent à assurer une intégration fluide et une performance optimale du système. En combinant des technologies avancées de gestion des contextes, d'intégration des capteurs, d'analyse temporelle et de traitement des flux de données, nous avons construit une solution robuste et évolutive pour l'entraînement au basketball. L'utilisation du Raspberry Pi 3 et des capteurs de distance garantit une solution matérielle efficace et abordable, adaptée aux besoins de notre projet.
